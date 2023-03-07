@@ -1,5 +1,3 @@
-# fashion-email
-
 # Fashion Brand Email
 
 This template was created for a clothing brand's email campaign using email code best practices.
