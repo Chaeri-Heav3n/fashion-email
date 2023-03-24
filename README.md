@@ -16,13 +16,7 @@ This template was created for a clothing brand's email campaign using email code
 https://chaeri-heav3n.github.io/e-commerce.html
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/xG9qP6G/Screen-Shot-2023-03-06-at-6-27-33-PM.png)
+![App Screenshot](https://i.ibb.co/MMJ0ZRw/Screen-Shot-2023-03-23-at-8-53-09-PM.png)
 
-![App Screenshot](https://i.ibb.co/pwj675t/Screen-Shot-2023-03-06-at-6-27-58-PM.png)
-
-![App Screenshot](https://i.ibb.co/dP58JLV/Screen-Shot-2023-03-06-at-6-28-14-PM.png)
-
-![App Screenshot](https://i.ibb.co/Zct3K9m/Screen-Shot-2023-03-06-at-6-28-26-PM.png)
-
-![App Screenshot](https://i.ibb.co/1f2zmkc/Screen-Shot-2023-03-06-at-6-28-46-PM.png)
+![App Screenshot](https://i.ibb.co/fMF6PR8/Screen-Shot-2023-03-23-at-8-53-26-PM.png)
 
